@@ -1,2 +1,2 @@
 # leetcode-problems
-## **Do NOT** submit without understanding the solution. 🫡
+**Do NOT** submit without understanding the solution. 🫡
