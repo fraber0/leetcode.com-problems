@@ -5,19 +5,5 @@ public:
         sort(t.begin(), t.end());
 
         return s==t;
-        
-        /*if(s.length()!=t.length())
-        {
-            return false;
-        }
-
-        for(int i=0; i<s.length(); i++)
-        {
-            if(s[i]!=t[i])
-            {
-                return false;
-            }
-        }
-        return true;*/
     }
 };
